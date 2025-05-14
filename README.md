@@ -1,6 +1,6 @@
 # Educational Pseudocode Compiler
 
-This project is a lightweight compiler designed for beginners who write simple pseudocode. The tool converts pseudocode into valid Python code using:
+This project is a lightweight compiler designed for beginners who write simple pseudocode. The tool converts pseudocode into valid c code using:
 
 - **Lexical Analysis** with SLY's Lexer
 - **Syntax Analysis** using a custom grammar and Parse Trees
