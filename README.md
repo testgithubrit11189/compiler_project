@@ -111,5 +111,4 @@ A user is free to use other words that correspond to a similar meaning to a word
 -streamlit run app.py
 
 ## Ideal For:
-- Programming beginners
 - Students learning compiler design
